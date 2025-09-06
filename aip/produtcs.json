@@ -40,7 +40,7 @@
     "phone": "0178342903",
     "website": "anastasia.net",
     "company": {
-      "name": "Deckow-Crist",
+      "name": "Anthony",
       "catchPhrase": "Proactive didactic contingency",
       "bs": "synergize scalable supply-chains"
     }
@@ -63,7 +63,7 @@
     "phone": "0186543829",
     "website": "ramiro.info",
     "company": {
-      "name": "Romaguera-Jacobson",
+      "name": "Rayan",
       "catchPhrase": "Face to face bifurcated interface",
       "bs": "e-enable strategic applications"
     }
@@ -86,7 +86,7 @@
     "phone": "0178935372",
     "website": "kale.biz",
     "company": {
-      "name": "Robel-Corkery",
+      "name": "Bhuiya",
       "catchPhrase": "Multi-tiered zero tolerance productivity",
       "bs": "transition cutting-edge web services"
     }
@@ -107,9 +107,9 @@
       }
     },
     "phone": "0198273635",
-    "website": "demarco.info",
+    "website": "Gisan",
     "company": {
-      "name": "Keebler LLC",
+      "name": "Gisan",
       "catchPhrase": "User-centric fault-tolerant solution",
       "bs": "revolutionize end-to-end systems"
     }
@@ -132,7 +132,7 @@
     "phone": "0138733993",
     "website": "ola.org",
     "company": {
-      "name": "Considine-Lockman",
+      "name": "Jamal Vhai",
       "catchPhrase": "Synchronised bottom-line interface",
       "bs": "e-enable innovative applications"
     }
@@ -140,7 +140,7 @@
   {
     "id": 7,
     "name": "Nayaa",
-    "username": "miya",
+    "username": "",
     "email": "Telly.Hoeger@billy.biz",
     "address": {
       "street": "Rex Trail",
@@ -155,7 +155,7 @@
     "phone": "01019828829",
     "website": "elvis.io",
     "company": {
-      "name": "Johns Group",
+      "name": "Miya",
       "catchPhrase": "Configurable multimedia task-force",
       "bs": "generate enterprise e-tailers"
     }
@@ -178,7 +178,7 @@
     "phone": "586.493.6943 x140",
     "website": "jacynthe.com",
     "company": {
-      "name": "Abernathy Group",
+      "name": "Omor on fire",
       "catchPhrase": "Implemented secondary concept",
       "bs": "e-enable extensible e-tailers"
     }
@@ -201,7 +201,7 @@
     "phone": "(775)976-6794 x41206",
     "website": "conrad.com",
     "company": {
-      "name": "Yost and Sons",
+      "name": "Manikganj",
       "catchPhrase": "Switchable contextually-based project",
       "bs": "aggregate real-time technologies"
     }
@@ -223,14 +223,14 @@
     "phone": "024-648-3804",
     "website": "ambrose.net",
     "company": {
-      "name": "Hoeger LLC",
+      "name": "Supar Shop",
       "catchPhrase": "Centralized empowering task-force",
       "bs": "target end-to-end models"
     }
   }, {
     "id": 10,
-    "name": "Alif",
-    "username": "Supar Shop",
+    "name": "Tousif",
+    "username": "Emergency",
     "email": "Rey.Padberg@karina.biz",
     "address": {
       "street": "Kattie Turnpike",
@@ -245,14 +245,14 @@
     "phone": "024-648-3804",
     "website": "ambrose.net",
     "company": {
-      "name": "Hoeger LLC",
+      "name": "Emergency tour",
       "catchPhrase": "Centralized empowering task-force",
       "bs": "target end-to-end models"
     }
   }, {
     "id": 10,
-    "name": "",
-    "username": "Supar Shop",
+    "name": "Sara",
+    "username": "Sara apu",
     "email": "Rey.Padberg@karina.biz",
     "address": {
       "street": "Kattie Turnpike",
@@ -267,7 +267,7 @@
     "phone": "024-648-3804",
     "website": "ambrose.net",
     "company": {
-      "name": "Hoeger LLC",
+      "name": "Sara apu",
       "catchPhrase": "Centralized empowering task-force",
       "bs": "target end-to-end models"
     }
@@ -311,7 +311,7 @@
     "phone": "024-648-3804",
     "website": "ambrose.net",
     "company": {
-      "name": "Hoeger LLC",
+      "name": "Jonab",
       "catchPhrase": "Centralized empowering task-force",
       "bs": "target end-to-end models"
     }
@@ -333,14 +333,14 @@
     "phone": "024-648-3804",
     "website": "ambrose.net",
     "company": {
-      "name": "Hoeger LLC",
+      "name": "Nisa apu",
       "catchPhrase": "Centralized empowering task-force",
       "bs": "target end-to-end models"
     }
   }, {
     "id": 10,
-    "name": "Alif",
-    "username": "Supar Shop",
+    "name": "Mili",
+    "username": "mili apu",
     "email": "Rey.Padberg@karina.biz",
     "address": {
       "street": "Kattie Turnpike",
@@ -355,7 +355,7 @@
     "phone": "024-648-3804",
     "website": "ambrose.net",
     "company": {
-      "name": "Hoeger LLC",
+      "name": "mili apu",
       "catchPhrase": "Centralized empowering task-force",
       "bs": "target end-to-end models"
     }
